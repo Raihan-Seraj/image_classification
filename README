@@ -1,0 +1,27 @@
+The code has been compiled in python and has been tested with python 3.6
+
+**CNN***
+To run the convolution neural network, launch the jupyter notebook file and include the path to the dataset in the path section. 
+
+in order to run CNN the following dependencies should be installed
+
+a)Numpy
+b)Pytorch version 3
+c)Matplotlib
+
+Launching CNN.ipynb saves a csv as an output which can be uploaded for evaluation in Kaggle
+
+**Fully Connected NN**
+To run the Fuly connected NN launch the script Feed_Forward_Neural_Network.py. In the code you can modify the path to set the path to the dataset 
+
+
+**For Launching Linear Classifier** 
+
+Launch the jupyter notebook Linear_Classifier.ipynb. The launching of this file will require opencv to be installed. Since we have processed the data and fed it in with in the notebook script. If one wants to 
+avoid processing the data then the path to the dataset can be given to the script and the line corresponding to the processing can be omitted.  
+
+
+**Filtering**
+For launching the filtering code the following dependencies need to be installed
+ a) Open CV
+
